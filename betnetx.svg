@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Arka plan ŞEFFAF -->
+  <circle cx="16" cy="16" r="15" fill="#F2C94C" stroke="#D4AF37" stroke-width="2"/>
+
+  <!-- BNX Yazısı -->
+  <text x="16" y="20"
+        text-anchor="middle"
+        font-size="12"
+        font-weight="bold"
+        font-family="Arial, Helvetica, sans-serif"
+        fill="#1F7A1F">
+    BNX
+  </text>
+
+  <!-- Taç -->
+  <path d="M12 10 L14 7 L16 10 L18 7 L20 10 Z"
+        fill="#8B6B00"/>
+</svg>
